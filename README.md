@@ -1,5 +1,7 @@
 [![CircleCI](https://circleci.com/gh/google/seq2seq.svg?style=svg)](https://circleci.com/gh/google/seq2seq)
-use it using conda install tensorflow-gpu==1.14.0 not pip install
+# use it using conda install tensorflow-gpu==1.14.0 not pip install
+# python -m unittest seq2seq.test.pipeline_test
+unit test to check if installed or not
 ---
 
 **[READ THE DOCUMENTATION](https://google.github.io/seq2seq)**
